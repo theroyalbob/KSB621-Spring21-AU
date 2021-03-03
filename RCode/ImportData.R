@@ -1,4 +1,4 @@
-base <- read.csv("C:/Users/as371/Desktop/Spring 2021/KSB621-Spring21-AU/InventoryData/part_base.csv")
-location <- read.csv("C:/Users/as371/Desktop/Spring 2021/KSB621-Spring21-AU/InventoryData/part_location.csv")
-log <- read.csv("C:/Users/as371/Desktop/Spring 2021/KSB621-Spring21-AU/InventoryData/part_log.csv")
-transaction <- read.csv("C:/Users/as371/Desktop/Spring 2021/KSB621-Spring21-AU/InventoryData/part_transaction.csv")
+base <- read.csv("https://github.com/theroyalbob/KSB621-Spring21-AU/raw/main/InventoryData/part_base.csv")
+location <- read.csv("https://github.com/theroyalbob/KSB621-Spring21-AU/raw/main/InventoryData/part_location.csv")
+log <- read.csv("https://github.com/theroyalbob/KSB621-Spring21-AU/raw/main/InventoryData/part_log.csv")
+transaction <- read.csv("https://github.com/theroyalbob/KSB621-Spring21-AU/raw/main/InventoryData/part_transaction.csv")
